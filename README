@@ -1,0 +1,3 @@
+Commandline for running:
+java -cp classes edu.berkeley.nlp.assignments.POSTaggerTester -path [path to data] -test test
+-test test is to be used for Test data set
